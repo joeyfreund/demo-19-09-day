@@ -3,4 +3,4 @@
  * My first edit
  * My second edit
  * My third edit
- * Editing this file in the fork
+ * Reesolved a conflict locally
